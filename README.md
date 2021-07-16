@@ -6,4 +6,4 @@ ben Buğra
 bu ilk markdown dosyam 
 (markdown=md)
 **merhaba**
-[google](https://www.google.com)
+[:D](https://www.google.com)
